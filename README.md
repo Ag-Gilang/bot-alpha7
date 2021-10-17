@@ -1,5 +1,5 @@
 # ```SELF-BOT```
-> Simple Whatsapp Bot
+- Simple Whatsapp Bot
 -------
 
 ## `ADD BUILDPACK`
@@ -28,15 +28,11 @@ Off in web nya
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
 </p>
 
-## ```HOW TO DEPLOY```
+## ```Subrek```
 
-[`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
+- [`Click Here`](https://youtube.com/channel/UC0RPdUd0lLprcHWkKP-0wOA)<br>
 
 ----------
-
-<p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
-</p>
 
 
 ## ```COFFEE```
